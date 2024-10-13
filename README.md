@@ -1,0 +1,2 @@
+# mobilestatic
+static mobile app
