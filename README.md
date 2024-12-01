@@ -1,2 +1,3 @@
 # mobilestatic
-static mobile app
+Static Mobile Web App 
+HTML, CSS, JS
